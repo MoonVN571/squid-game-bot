@@ -1,0 +1,33 @@
+{
+  "name": "squid-game",
+  "version": "0.0.1",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonVN571/Squid-Game.git"
+  },
+  "keywords": [
+    "squidgame",
+    "trochoiconmuc"
+  ],
+  "author": "Moon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonVN571/Squid-Game/issues"
+  },
+  "homepage": "https://github.com/MoonVN571/Squid-Game#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.6.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
+    "mongoose": "^6.0.8",
+    "ms": "^2.1.3"
+  }
+}
